@@ -30,7 +30,7 @@ My interests include systems programming, embedded/ARM platforms, and simulation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/ARM64--v8a-3DDC84?style=for-the-badge&logo=android&logoColor=black" height="30" />
+<img src="https://img.shields.io/badge/AMD64-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" />
 </p>
 
 ---
