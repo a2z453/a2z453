@@ -9,28 +9,29 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=a2z453&show_icons=true&theme=transparent&bg_color=0d1117&title_color=d466ff&text_color=c9d1d9&icon_color=d466ff&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=a2z453&amp;show_icons=true&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=d466ff&amp;text_color=c9d1d9&amp;icon_color=d466ff&amp;hide_border=true"
     width="500"
     alt="GitHub statistics"
   />
 </div>
 
-
 ---
 
 ### About
 
-I work primarily with Linux-based systems and enjoy building reliable, efficient software close to the hardware.  
-My interests include systems programming, embedded/ARM platforms, and simulation-oriented projects.
+I work primarily with Linux-based systems and enjoy making reliable, programs for making my life easier.
+My interests include systems programming, cryptographic deciphering, and simulation-oriented projects.
 
 ---
 
 ### Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
-<img src="https://img.shields.io/badge/AMD64-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/AMD64-ED1C24?style=for-the-badge&amp;logo=amd&amp;logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&amp;logo=arm&amp;logoColor=white" height="30" />
 </p>
 
 ---
@@ -48,4 +49,4 @@ My interests include systems programming, embedded/ARM platforms, and simulation
 
 ---
 
-<sub>Focused on maintainable systems, clear tooling, and long-term learning.</sub>
+<sub>Always tinkering with logic design, squeezing out performance, and learning something new.</sub>
