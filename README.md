@@ -19,7 +19,6 @@
 
 ### About
 
-I work primarily with Linux-based systems and enjoy making reliable, programs for making my life easier.
 My interests include systems programming, cryptographic deciphering, and simulation-oriented projects.
 
 ---
