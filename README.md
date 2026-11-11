@@ -49,3 +49,6 @@ My interests include systems programming, cryptographic deciphering, and simulat
 ---
 
 <sub>Always tinkering with logic design, squeezing out performance, and learning something new.</sub>
+
+
+kira-zxh2qamu
